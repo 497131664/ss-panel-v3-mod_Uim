@@ -1,1 +1,1 @@
-All reports gose to here: anankke@protonmail.com
+Contact <anankke@pm.me> or use Github Security Advisories feature to report a vulnerability, do not use issue tracker.
